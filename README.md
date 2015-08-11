@@ -20,7 +20,7 @@ These languages will include (at least, to start with):
 
  * C/C++
  * C#
- * Javascript
+ * Javascript (uploaded: hi.js)
 
 # Licence
 I'm not the original creator of the language, but I am wrapping this repo in a GPL 2 licence. The short version (taken from https://tldrlegal.com/license/gnu-general-public-license-v2) is:
