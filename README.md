@@ -3,6 +3,16 @@ Hi\n is an esoteric joke language created and described at https://esolangs.org
 
 For a full description of the language, including it's history and design, see: http://esolangs.org/wiki/Hi%5Cn
 
+# Short Description of Hi\n
+
+Taken from the eslonag entry for Hi\n:
+
+> The program must do the following things in this order to be considered a hi\n interpreter:
+ * It must instantiate the string "eat pie" exactly 98 times, using a for loop.
+ * It must set the variable 'x' to a string containing exactly 1,000,000 'a's.
+ * It must set the variable 'squiggly' to the square root of 5.
+ * Most importantly, it must print 'hi' with a trailing newline.
+
 # Project
 This repo will contain a listing of Hi\n in every language and framework that I am compitent enough in to produce it with.
 
