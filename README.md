@@ -19,7 +19,7 @@ This repo will contain a listing of Hi\n in every language and framework that I 
 These languages will include (at least, to start with):
 
  * C/C++
- * C#
+ * C# (uploaded: hi.cs)
  * Javascript (uploaded: hi.js)
 
 # Licence
