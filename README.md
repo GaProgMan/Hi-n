@@ -14,13 +14,23 @@ Taken from the eslonag entry for Hi\n:
  * Most importantly, it must print 'hi' with a trailing newline.
 
 # Project
-This repo will contain a listing of Hi\n in every language and framework that I am compitent enough in to produce it with.
+This repo will contain a listing of Hi\n in every language and framework that I am competent enough in to produce it with.
 
 These languages will include (at least, to start with):
 
  * C/C++ (uploaded: hi.cpp)
  * C# (uploaded: hi.cs)
  * Javascript (uploaded: hi.js)
+
+Languages
+ 
+ * C 
+ * C++
+ * C#
+ * Java
+ * Javascript
+ * PHP
+ * Rust 
 
 # Licence
 I'm not the original creator of the language, but I am wrapping this repo in a GPL 2 licence. The short version (taken from https://tldrlegal.com/license/gnu-general-public-license-v2) is:
