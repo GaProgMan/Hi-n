@@ -2,7 +2,13 @@
 #include <string.h>
 #include <math.h>
 
-int main () {
+/**
+ * Hi\n in plain C
+ * See: http://esolangs.org/wiki/Hi%5Cn
+ * Author: @MarauderXtreme
+ */
+
+int main() {
 	char eat_pie[7] = "eat pie";
 	int i = 1;
 	for (i; i < 98; i++) {
@@ -12,7 +18,7 @@ int main () {
 	int count = 1;
 	char x[1000000] = "a";
 	while (count < 999999) {
-		strcat(x,"a");
+		strcat(x, "a");
 		count++;
 	}
 
