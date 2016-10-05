@@ -22,17 +22,19 @@ These languages will include (at least, to start with):
  * C# (uploaded: hi.cs)
  * Javascript (uploaded: hi.js)
 
-Languages
- 
- * C 
- * C++
- * C#
- * Java
- * Javascript
- * PHP
- * Rust 
+Languages included so far
 
-# Licence
+| Language   | File    |
+| ---------- | ------- |
+| C          | hi.c    |
+| C++        | hi.cpp  |
+| C#         | hi.cs   |
+| Java       | hi.java |
+| Javascript | hi.js   |
+| PHP        | hi.php  |
+| Rust       | hi.rs   |
+
+# License
 I'm not the original creator of the language, but I am wrapping this repo in a GPL 2 licence. The short version (taken from https://tldrlegal.com/license/gnu-general-public-license-v2) is:
 
 > You may copy, distribute and modify the software as long as you track changes/dates in source files. Any modifications to or software including (via compiler) GPL-licensed code must also be made available under the GPL along with build & install instructions.
