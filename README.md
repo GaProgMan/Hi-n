@@ -24,16 +24,16 @@ These languages will include (at least, to start with):
 
 ## Languages included so far
 
-| Language   | File      |
-| ---------- | --------- |
-| C          | `hi.c`    |
-| C++        | `hi.cpp`  |
-| C#         | `hi.cs`   |
-| Java       | `hi.java` |
-| Javascript | `hi.js`   |
-| PHP        | `hi.php`  |
-| Rust       | `hi.rs`   |
-| Haskell    | `hi.hs`   |
+| Language   | File      | Original Contributor |
+| ---------- | --------- |----------------------|
+| C          | `hi.c`    | `MarauderXtreme`     |
+| C++        | `hi.cpp`  | `GaProgMan`          |
+| C#         | `hi.cs`   | `GaProgMan`          |
+| Java       | `hi.java` | `MarauderXtreme`     |
+| Javascript | `hi.js`   | `GaProgMan`          |
+| PHP        | `hi.php`  | `MarauderXtreme`     |
+| Rust       | `hi.rs`   | `Feliix42`           |
+| Haskell    | `hi.hs`   | `Lodifice`           |
 
 # License
 I'm not the original creator of the language, but I am wrapping this repo in a GPL 2 licence. The short version (taken from https://tldrlegal.com/license/gnu-general-public-license-v2) is:
